@@ -4,7 +4,7 @@
 
 ## 下载与安装
 
-Android 版需要 Android 13 或更高版本。首个安装包准备中，发布后可在 [Releases](https://github.com/currentsync/songguo-releases/releases) 下载 `.apk` 文件。在手机上打开 APK，按系统提示完成安装。如果系统提示需要为浏览器或文件管理器开启「安装未知应用」，可在安装完成后关闭该权限。
+Android 版需要 Android 13 或更高版本。[下载松果 v0.1.2 的 APK](https://github.com/currentsync/songguo-releases/releases/download/v0.1.2/songguo-0.1.2-android.apk)，或查看 [Releases](https://github.com/currentsync/songguo-releases/releases) 中的版本说明。在手机上打开 APK，按系统提示完成安装。如果系统提示需要为浏览器或文件管理器开启「安装未知应用」，可在安装完成后关闭该权限。
 
 ## 使用示例
 
